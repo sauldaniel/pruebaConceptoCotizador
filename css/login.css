@@ -1,0 +1,40 @@
+body{
+    
+    font-family: 'Montserrat', sans-serif;
+    margin: 10%;
+}
+
+div.mainLogin{
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr 1fr;
+    grid-gap: 0px;
+    justify-content: center;
+}
+
+div.general{
+    
+}
+#imgLogin{
+    
+}
+#imgLogin img{
+    display: block;
+    height: 100px;
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+#formsLogin{
+    
+}
+
+
+#imgLogin{
+    display: block;
+    margin-bottom: 10px;
+    width: auto;
+    height: 40px;
+
+}
